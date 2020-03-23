@@ -30,7 +30,7 @@ env:
   SSH_ACTIONS: false
   UPLOAD_BIN_DIR: false
   UPLOAD_FIRMWARE: true
-  TZ: Asia/Shanghai
+  TZ: America/Los_Angeles
 
 jobs:
   build:
